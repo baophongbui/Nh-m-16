@@ -1,0 +1,274 @@
+.tao-tai-khoan-child {
+  position: absolute;
+  height: 0.04%;
+  width: 98.74%;
+  top: 8.94%;
+  right: 1.29%;
+  bottom: 91.02%;
+  left: -0.03%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.tao-tai-khoan-item {
+  position: absolute;
+  height: 67.36%;
+  width: 80.16%;
+  top: 13.92%;
+  right: 9.92%;
+  bottom: 18.72%;
+  left: 9.92%;
+  background-color: var(--color-white);
+}
+.d386ad6f-5fff-4289-ae8e-08fabf-icon {
+  position: absolute;
+  height: 8.96%;
+  width: 15.94%;
+  top: 0;
+  right: 84.06%;
+  bottom: 91.04%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.easyshop {
+  position: absolute;
+  top: 3%;
+  left: 14.62%;
+  font-size: var(--font-size-31xl);
+  text-align: left;
+}
+.ting-vit,
+.vector-icon2 {
+  position: absolute;
+  cursor: pointer;
+}
+.ting-vit {
+  top: 4.12%;
+  left: 77.51%;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-lato);
+  text-align: left;
+}
+.vector-icon2 {
+  height: 2%;
+  width: 3.31%;
+  top: 4.24%;
+  right: 6.22%;
+  bottom: 93.76%;
+  left: 90.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.to-ti-khon,
+.vi-vic-to {
+  position: absolute;
+  top: 16%;
+  left: 42%;
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+}
+.vi-vic-to {
+  top: 62.08%;
+  left: 14.62%;
+  font-size: var(--font-size-26xl);
+}
+.group-child {
+  position: absolute;
+  height: 11.89%;
+  width: 100%;
+  top: 17.62%;
+  right: 0;
+  bottom: 70.48%;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  font-size: 40px;
+}
+.tn-ng-nhp {
+  position: absolute;
+  height: 6.5%;
+  width: 15.82%;
+  top: 20.15%;
+  left: 4.87%;
+  font-weight: 200;
+  display: inline-block;
+}
+.group-item {
+  height: 11.89%;
+  width: 32.77%;
+  top: 0;
+  right: 67.5%;
+  bottom: 88.11%;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  font-size: 40px;
+}
+.rectangle-div,
+.group-child1,
+.group-child2,
+.group-child3,
+.group-child4 {
+  font-size: 40px;
+}
+.group-inner,
+.group-item,
+.h {
+  position: absolute;
+}
+.h {
+  top: 3.08%;
+  left: 4.87%;
+  font-weight: 200;
+}
+.group-inner {
+  position: absolute;
+  height: 11.89%;
+  width: 53.5%;
+  top: 0;
+  right: 0;
+  bottom: 88.11%;
+  left: 32.5vw;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  font-size: 40px;
+}
+
+.group-child1,
+.rectangle-div {
+  position: absolute;
+  height: 11.89%;
+  width: 100%;
+  top: 35.24%;
+  right: 0;
+  bottom: 52.86%;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-child1 {
+  top: 52.86%;
+  bottom: 35.24%;
+}
+.mt-khu,
+.s-in-thoi {
+  position: absolute;
+  height: 6.5%;
+  width: 15.36%;
+  top: 55.73%;
+  left: 4.03%;
+  font-weight: 200;
+  display: inline-block;
+}
+.mt-khu {
+  height: 6.49%;
+  width: 10.49%;
+  top: 38%;
+  left: 4.87%;
+}
+.group-child2,
+.group-child3 {
+  position: absolute;
+  height: 11.89%;
+  width: 100%;
+  top: 70.48%;
+  right: 0;
+  bottom: 17.62%;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-child3 {
+  width: 46.44%;
+  top: 88.11%;
+  right: 53.56%;
+  bottom: 0;
+}
+.ngy-sinh-nnttnn {
+  position: absolute;
+  height: 6.5%;
+  width: 21.91%;
+  top: 73.24%;
+  left: 4.87%;
+  font-weight: 200;
+  display: inline-block;
+}
+.group-child4 {
+  position: absolute;
+  height: 11.89%;
+  width: 45.69%;
+  top: 88.11%;
+  right: 0.09%;
+  bottom: 0;
+  left: 54.21%;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-springgreen);
+}
+.in-m-otp,
+.ly-m-otp {
+  position: absolute;
+  top: 91.52%;
+}
+.in-m-otp {
+  height: 6.5%;
+  width: 16.29%;
+  left: 12.55%;
+  font-weight: 200;
+  display: inline-block;
+}
+.ly-m-otp {
+  left: 69.29%;
+  color: var(--color-black);
+}
+.rectangle-parent {
+  position: absolute;
+  height: 36.32%;
+  width: 70.63%;
+  top: 23.16%;
+  right: 14.75%;
+  bottom: 40.52%;
+  left: 14.62%;
+  color: var(--color-darkgray);
+}
+.tao-tai-khoan-inner {
+  position: absolute;
+  height: 4.32%;
+  width: 32.28%;
+  top: 67.36%;
+  right: 33.86%;
+  bottom: 28.32%;
+  left: 33.86%;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-red-300);
+  cursor: pointer;
+}
+.to-ti-khon1 {
+  position: absolute;
+  top: 68.48%;
+  left: 45%;
+  cursor: pointer;
+}
+.tao-tai-khoan {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 2500px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  font-family: var(--font-oswald);
+}

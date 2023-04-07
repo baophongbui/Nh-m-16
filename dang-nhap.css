@@ -1,0 +1,189 @@
+.dang-nhap-child {
+  position: absolute;
+  height: 0.07%;
+  width: 98.74%;
+  top: 14.9%;
+  right: 1.29%;
+  bottom: 85.03%;
+  left: -0.03%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.d386ad6f-5fff-4289-ae8e-08fabf-icon4 {
+  position: absolute;
+  height: 14.93%;
+  width: 15.94%;
+  top: 0;
+  right: 84.06%;
+  bottom: 85.07%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.easyshop4,
+.vector-icon8 {
+  position: absolute;
+  top: 5%;
+  left: 14.62%;
+}
+.vector-icon8 {
+  height: 3.33%;
+  width: 3.31%;
+  top: 7.07%;
+  right: 6.22%;
+  bottom: 89.6%;
+  left: 90.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.dang-nhap-item {
+  position: absolute;
+  height: 53.33%;
+  width: 80.16%;
+  top: 23.33%;
+  right: 9.92%;
+  bottom: 23.33%;
+  left: 9.92%;
+  background-color: var(--color-white);
+}
+.ng-nhp {
+  position: absolute;
+  top: 25.8%;
+  left: 41.07%;
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+  text-align: center;
+}
+.component-4-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-46xl);
+  background-color: var(--color-red-100);
+}
+.component-4,
+.ng-nhp1 {
+  position: absolute;
+  top: 0;
+  left: 29.3%;
+}
+.component-4 {
+  height: 5.87%;
+  width: 32.28%;
+  top: 64.8%;
+  right: 34.52%;
+  bottom: 29.33%;
+  left: 33.2%;
+  cursor: pointer;
+  text-align: center;
+}
+.qun-mt-mt {
+  top: 71.07%;
+  left: 67.06%;
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+}
+.dang-nhap-inner,
+.qun-mt-mt,
+.to-ti-khon2 {
+  position: absolute;
+  cursor: pointer;
+}
+.dang-nhap-inner {
+  height: 8.8%;
+  width: 80.16%;
+  top: 76.67%;
+  right: 9.92%;
+  bottom: 14.53%;
+  left: 9.92%;
+  background-color: var(--color-gainsboro-100);
+}
+.to-ti-khon2 {
+  top: 78.87%;
+  left: 38.76%;
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+}
+.instance-child6 {
+  position: absolute;
+  height: 31.4%;
+  width: 99.81%;
+  top: 0;
+  right: 0.19%;
+  bottom: 68.6%;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+}
+input {
+  height: 31.4%;
+  width: 80%;
+  font-size: 40px;
+}
+.user-name2 {
+  position: absolute;
+  top: 8.14%;
+  left: 2.62%;
+  font-weight: 200;
+}
+.instance-child7 {
+  position: absolute;
+  height: 31.4%;
+  width: 99.81%;
+  top: 68.6%;
+  right: 0.19%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+}
+.password1 {
+  position: absolute;
+  top: 76.74%;
+  left: 5.14%;
+  font-weight: 200;
+}
+.rectangle-parent1 {
+  position: absolute;
+  height: 22.93%;
+  width: 70.77%;
+  top: 37.27%;
+  right: 14.62%;
+  bottom: 39.8%;
+  left: 14.62%;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-darkgray);
+}
+.ting-vit1 {
+  position: absolute;
+  top: 6.87%;
+  left: 77.51%;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-lato);
+  cursor: pointer;
+}
+.dang-nhap {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1500px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-oswald);
+}

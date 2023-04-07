@@ -1,0 +1,217 @@
+.log-in-child {
+  position: absolute;
+  height: 0.07%;
+  width: 98.74%;
+  top: 14.9%;
+  right: 1.29%;
+  bottom: 85.03%;
+  left: -0.03%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.d386ad6f-5fff-4289-ae8e-08fabf-icon5 {
+  position: absolute;
+  height: 14.93%;
+  width: 15.94%;
+  top: 0;
+  right: 84.06%;
+  bottom: 85.07%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.english2,
+.vector-icon9 {
+  position: absolute;
+  cursor: pointer;
+}
+.english2 {
+  top: 6.87%;
+  left: 78.84%;
+  font-family: var(--font-lato);
+}
+.vector-icon9 {
+  height: 3.33%;
+  width: 3.31%;
+  top: 7.07%;
+  right: 6.22%;
+  bottom: 89.6%;
+  left: 90.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.log-in-item {
+  position: absolute;
+  height: 53.33%;
+  width: 80.16%;
+  top: 23.33%;
+  right: 9.92%;
+  bottom: 23.33%;
+  left: 9.92%;
+  background-color: var(--color-white);
+}
+.log-in1 {
+  position: absolute;
+  top: 25.8%;
+  left: 44.97%;
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+  text-align: center;
+}
+.component-5-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-46xl);
+  background-color: var(--color-red-100);
+}
+.component-5,
+.login-now {
+  position: absolute;
+  top: 0;
+  left: 30.74%;
+}
+.component-5 {
+  height: 5.87%;
+  width: 32.28%;
+  top: 64.8%;
+  right: 34.52%;
+  bottom: 29.33%;
+  left: 33.2%;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+}
+.forgot-your-password {
+  top: 71.07%;
+  left: 67.06%;
+  color: var(--color-royalblue);
+}
+.forgot-your-password,
+.log-in-inner,
+.register-a-new {
+  position: absolute;
+  cursor: pointer;
+}
+.log-in-inner {
+  height: 8.8%;
+  width: 80.16%;
+  top: 76.67%;
+  right: 9.92%;
+  bottom: 14.53%;
+  left: 9.92%;
+  background-color: var(--color-gainsboro-100);
+}
+.register-a-new {
+  top: 78.87%;
+  left: 36.64%;
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+}
+.instance-child8 {
+  position: absolute;
+  height: 31.4%;
+  width: 99.81%;
+  top: 0;
+  right: 0.19%;
+  bottom: 68.6%;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+}
+.user-name3 {
+  position: absolute;
+  top: 8.14%;
+  left: 4.86%;
+  font-weight: 200;
+}
+.instance-child9 {
+  position: absolute;
+  height: 31.4%;
+  width: 99.81%;
+  top: 68.6%;
+  right: 0.19%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+}
+.password2 {
+  position: absolute;
+  top: 76.74%;
+  left: 4.86%;
+  font-weight: 200;
+  color: rgba(15, 17, 15, 0.42);
+}
+.rectangle-parent2 {
+  position: absolute;
+  height: 22.93%;
+  width: 70.77%;
+  top: 37.27%;
+  right: 14.62%;
+  bottom: 39.8%;
+  left: 14.62%;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-darkgray);
+}
+.instance-child6 {
+  position: absolute;
+  height: 31.4%;
+  width: 99.81%;
+  top: 0;
+  right: 0.19%;
+  bottom: 68.6%;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+}
+input {
+  height: 31.4%;
+  width: 80%;
+  font-size: 40px;
+}
+.instance-child7 {
+  position: absolute;
+  height: 31.4%;
+  width: 99.81%;
+  top: 68.6%;
+  right: 0.19%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+}
+.easyshop5 {
+  position: absolute;
+  top: 5%;
+  left: 14.62%;
+  font-size: var(--font-size-31xl);
+}
+.log-in {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1500px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-oswald);
+}

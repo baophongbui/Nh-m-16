@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lato: Lato;
+  --font-oswald: Oswald;
+  --font-inherit: inherit;
+  --font-roboto: Roboto;
+  --font-overpass: Overpass;
+  --font-montserrat: Montserrat;
+  --font-dancing-script: "Dancing Script";
+  --font-great-vibes: "Great Vibes";
+
+  /* font sizes */
+  --font-size-51xl: 70px;
+  --font-size-16xl: 35px;
+  --font-size-26xl: 45px;
+  --font-size-21xl: 40px;
+  --font-size-31xl: 50px;
+  --font-size-11xl: 30px;
+  --font-size-5xl: 24px;
+  --font-size-7xl: 26px;
+  --font-size-36xl: 55px;
+  --font-size-2xl: 21px;
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-24xl: 43px;
+  --font-size-base: 16px;
+  --font-size-2xs: 11px;
+  --font-size-10xl: 29px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-red-100: #ef1c23;
+  --color-red-200: #f50f0f;
+  --color-red-300: #ff0000;
+  --color-black: #000;
+  --color-darkgray: #a7a8a7;
+  --color-springgreen: #1cef57;
+  --color-gray-100: #828282;
+  --color-gray-200: #827c7c;
+  --color-gray-300: #221d1e;
+  --color-gainsboro-100: #d9d9d9;
+  --color-royalblue: #6170f2;
+  --color-sandybrown: #ffc679;
+
+  /* border radiuses */
+  --br-46xl: 65px;
+  --br-11xl: 30px;
+  --br-smi: 13px;
+  --br-mid: 17px;
+  --br-18xl: 37px;
+  --br-126xl: 145px;
+}

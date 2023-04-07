@@ -1,0 +1,54 @@
+.you-have-logged {
+  position: absolute;
+  top: 52.85%;
+  left: 18.25%;
+}
+.component-7-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-46xl);
+  background-color: var(--color-red-200);
+}
+.go-to-shopping2 {
+  position: absolute;
+  top: 27.66%;
+  left: 20.37%;
+  font-weight: 800;
+}
+.component-72 {
+  position: absolute;
+  top: 707px;
+  left: 346px;
+  width: 820px;
+  height: 188px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.icon-check1 {
+  position: absolute;
+  height: 29.31%;
+  width: 23.53%;
+  top: 9.67%;
+  right: 38.24%;
+  bottom: 61.01%;
+  left: 38.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.log-in-done {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

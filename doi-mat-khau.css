@@ -1,0 +1,202 @@
+.doi-mat-khau-child {
+  position: absolute;
+  height: 0.07%;
+  width: 98.74%;
+  top: 14.9%;
+  right: 1.29%;
+  bottom: 85.03%;
+  left: -0.03%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.d386ad6f-5fff-4289-ae8e-08fabf-icon2 {
+  position: absolute;
+  height: 14.93%;
+  width: 15.94%;
+  top: 0;
+  right: 84.06%;
+  bottom: 85.07%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.vector-icon6,
+.vietnam {
+  position: absolute;
+  cursor: pointer;
+}
+.vietnam {
+  top: 6.87%;
+  left: 77.51%;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-lato);
+  text-align: left;
+}
+.vector-icon6 {
+  height: 3.33%;
+  width: 3.31%;
+  top: 7.07%;
+  right: 6.22%;
+  bottom: 89.6%;
+  left: 90.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.doi-mat-khau-item {
+  position: absolute;
+  height: 67.6%;
+  width: 80.16%;
+  top: 23.33%;
+  right: 9.92%;
+  bottom: 9.07%;
+  left: 9.92%;
+  background-color: var(--color-white);
+}
+.doi-mat-khau-inner {
+  position: absolute;
+  height: 7.2%;
+  width: 32.28%;
+  top: 69.27%;
+  right: 14.81%;
+  bottom: 23.53%;
+  left: 52.91%;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-springgreen);
+}
+.ly-m-otp1 {
+  position: absolute;
+  top: 71.13%;
+  left: 63.56%;
+  color: var(--color-black);
+}
+.i-mt-khu,
+.in-ti-khon {
+  position: absolute;
+  top: 32.53%;
+  left: 14.68%;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-200);
+}
+.i-mt-khu {
+  top: 25.8%;
+  left: 38.89%;
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+}
+.component-6-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-46xl);
+  background-color: var(--color-red-100);
+}
+.component-6,
+.i-mt-khu1 {
+  position: absolute;
+  top: 20.45%;
+  left: 29.92%;
+}
+.component-6 {
+  height: 5.87%;
+  width: 32.28%;
+  top: 79.93%;
+  right: 33.86%;
+  bottom: 14.2%;
+  left: 33.86%;
+  cursor: pointer;
+}
+.instance-child,
+.instance-child1,
+.instance-inner,
+.instance-item {
+  position: absolute;
+  height: 18.37%;
+  width: 99.81%;
+  top: 27.21%;
+  right: 0.19%;
+  bottom: 54.42%;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  font-size: 40px;
+}
+.instance-child1,
+.instance-inner,
+.instance-item {
+  top: 54.42%;
+  bottom: 27.21%;
+}
+.instance-child1,
+.instance-inner {
+  width: 46.36%;
+  top: 81.63%;
+  right: 53.64%;
+  bottom: 0;
+}
+.instance-child1 {
+  width: 99.81%;
+  top: 0;
+  right: 0.19%;
+  bottom: 81.63%;
+}
+.in-m-otp1,
+.mt-khu-mi,
+.s-in-thoi1,
+.tn-ng-nhp1 {
+  position: absolute;
+  top: 4.76%;
+  left: 4.86%;
+  font-weight: 200;
+}
+.in-m-otp1,
+.mt-khu-mi,
+.s-in-thoi1 {
+  top: 31.97%;
+}
+.in-m-otp1,
+.mt-khu-mi {
+  top: 86.39%;
+  left: 16.17%;
+}
+.mt-khu-mi {
+  top: 59.18%;
+  left: 4.86%;
+}
+.rectangle-container {
+  position: absolute;
+  height: 39.2%;
+  width: 70.77%;
+  top: 37.27%;
+  right: 14.62%;
+  bottom: 23.53%;
+  left: 14.62%;
+  color: var(--color-darkgray);
+}
+.easyshop2 {
+  position: absolute;
+  top: 5%;
+  left: 14.62%;
+  font-size: var(--font-size-31xl);
+  text-align: left;
+}
+.doi-mat-khau {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1500px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  font-family: var(--font-oswald);
+}
